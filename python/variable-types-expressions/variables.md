@@ -5,6 +5,7 @@
 ```py
 # Creating variables by assigning values
 current_score = 100
+
 player_name = "Alex"
 
 print(current_score)
