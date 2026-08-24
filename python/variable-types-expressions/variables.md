@@ -1,5 +1,6 @@
 # How to create a variable
 
+
 `<name> = <value>`
 
 ```py
