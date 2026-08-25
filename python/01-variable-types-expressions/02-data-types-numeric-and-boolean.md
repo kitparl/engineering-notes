@@ -2,6 +2,7 @@
 
 ## Integers (int)
 
+
 - As one of the most powerful Python data types, integers here have arbitrary precision. This means they can be as large as our computer's memory allows
 - When writing large numbers, it can be difficult to count the zeros. Python allows us to use underscores (_) as visual separators
 - Making Python excellent for heavy mathematical computation.
