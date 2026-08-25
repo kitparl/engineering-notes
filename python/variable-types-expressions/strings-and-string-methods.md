@@ -1,4 +1,4 @@
-Python string basics including creation, indexing, slicing, and immutability.
+Python string basics including creation, indexing, slicing, and immutability .
 
 # Creating string literals
 
