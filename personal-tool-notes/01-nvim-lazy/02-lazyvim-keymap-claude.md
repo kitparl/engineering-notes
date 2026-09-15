@@ -311,3 +311,8 @@ Space  ar        → resume a specific old Claude chat
 
 *Full official cheatsheet with more detail lives in `revise.md` — this file is just today's
 condensed study notes.*
+
+
+# revise.md
+
+
