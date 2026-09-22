@@ -160,11 +160,9 @@ ask("what is the status of ORD-1002 and initiate refund if it is not shipped tod
 This script demonstrates **dynamic tool selection** using the `@wrap_model_call` middleware.  
 Instead of always giving the model *all* tools, the agent inspects the user’s latest question and offers only the relevant tools for that turn.
 
-```markdown
-
----
-
 ## 1. Imports & Setup
+
+```markdown
 
 ```python
 import sys
@@ -421,4 +419,3 @@ Final answer is returned
 - Reduces prompt size (fewer tool descriptions)
 - Improves reliability for multi-domain agents (support, sales, billing, etc.)
 - Easy to extend with more categories (e.g. `TECH_SUPPORT_TOOLS`, `BILLING_TOOLS`)
-```
