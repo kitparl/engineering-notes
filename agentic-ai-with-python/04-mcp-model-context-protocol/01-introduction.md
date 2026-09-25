@@ -82,3 +82,14 @@ MCP is built on JSON-RPC 2.0, so “MCP data layer” needs a more precise meani
 ```
 
 
+# Why Anthropic decided to go with JSON RPC?
+
+- Lightweighted
+- Bidirectional
+- Transportation - HTTP, stdio, sockets
+- Batching
+- Notification
+
+
+
+
