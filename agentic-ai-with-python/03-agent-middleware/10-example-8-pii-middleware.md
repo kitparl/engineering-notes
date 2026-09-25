@@ -255,4 +255,3 @@ except PIIDetectionError:
 | Why useful               | Helps meet privacy/compliance requirements and protects user data           |
 
 This pattern is essential for production support agents where customers may accidentally share sensitive information.
-```
