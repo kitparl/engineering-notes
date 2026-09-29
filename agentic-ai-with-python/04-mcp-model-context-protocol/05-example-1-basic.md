@@ -292,3 +292,9 @@ return num1 + num2
 
 
 ![image.png](./assets/c7112ddf-3f4a-43e6-9d3d-ad1b22591927-image.png)
+
+![image.png](./assets/62de30d5-1852-479b-8171-b83342231724-image.png)
+
+Below final answer or based on requirement we do
+
+![image.png](./assets/a3a2db41-7c86-4e13-968e-44afd3fc75af-image.png)
